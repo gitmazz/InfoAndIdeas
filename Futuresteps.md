@@ -1,14 +1,14 @@
 # Stax
 
-MVP - Dashboard that has all cyber security tools in one spot. User will be able to choose which tools to choose for the security stack and operate out of the main dashboard.
+# MVP - Dashboard that has all cyber security tools in one spot. User will be able to choose which tools to choose for the security stack and operate out of the main dashboard.
 
 V1 - Customize their stacks based off compliance frameworks
 
-NIST Cybersecurity Framework (CSF): Developed by the National Institute of Standards and Technology (NIST), this framework provides guidelines for organizations to manage and reduce cybersecurity risk.
+#### NIST Cybersecurity Framework (CSF): Developed by the National Institute of Standards and Technology (NIST), this framework provides guidelines for organizations to manage and reduce cybersecurity risk.
 
-ISO 27001: Part of the ISO/IEC 27000 series, this framework outlines best practices for creating, implementing, and maintaining an information security management system (ISMS).
+#### ISO 27001: Part of the ISO/IEC 27000 series, this framework outlines best practices for creating, implementing, and maintaining an information security management system (ISMS).
 
-CIS Controls: Developed by the Center for Internet Security (CIS), this framework offers a prioritized set of actions to improve an organization's cybersecurity posture.
+#### CIS Controls: Developed by the Center for Internet Security (CIS), this framework offers a prioritized set of actions to improve an organization's cybersecurity posture.
 
 COBIT: Control Objectives for Information and Related Technologies (COBIT) is a framework created by ISACA for the governance and management of enterprise IT.
 
