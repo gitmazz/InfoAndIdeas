@@ -3,10 +3,12 @@
 
 
 
+#
+#
+#
+#
 
-
-
-* Compliance Frameworks * 
+Compliance Frameworks
 ### NIST Cybersecurity Framework (CSF): Developed by the National Institute of Standards and Technology (NIST), this framework provides guidelines for organizations to manage and reduce cybersecurity risk.
 #### ISO 27001: Part of the ISO/IEC 27000 series, this framework outlines best practices for creating, implementing, and maintaining an information security management system (ISMS).
 #### CIS Controls: Developed by the Center for Internet Security (CIS), this framework offers a prioritized set of actions to improve an organization's cybersecurity posture.
