@@ -1,6 +1,6 @@
 # Stax
 
-# MVP - Dashboard that has all cyber security tools in one spot. User will be able to choose which tools to choose for the security stack and operate out of the main dashboard.
+## MVP - Dashboard that has all cyber security tools in one spot. User will be able to choose which tools to choose for the security stack and operate out of the main dashboard.
 
 ## V1 - Customize their stacks based off compliance frameworks
 #### NIST Cybersecurity Framework (CSF): Developed by the National Institute of Standards and Technology (NIST), this framework provides guidelines for organizations to manage and reduce cybersecurity risk.
