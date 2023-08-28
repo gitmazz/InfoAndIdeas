@@ -11,13 +11,18 @@
 ###  Sophos - https://www.sophos.com/en-us/content/endpoint-security
 
 
-# Application Security Testing
+# Application Security Testing / SAST / DAST 
 
+###  Synopsys - https://www.synopsys.com/software-integrity/security-testing.html
+###  Veracode - https://www.veracode.com/
+###  Checkmarx - https://checkmarx.com/
+###  OpenText - https://www.opentext.com/solutions/line-of-business/security
+###  Snyk - https://snyk.io/
+###  HCLSoftware - https://www.hcltech.com/cyber-security-grc-services/application-security
+###  JFrog - https://jfrog.com/advanced-security/
 
 
 #  Vulnerability Management
-##  SAST/DAST
-### Codacy
 
 ## Infrastructure and Endpoint
 ### Nessus Tenable
