@@ -1,5 +1,5 @@
 # MVP - Dashboard that has all cyber security tools in one spot. User will be able to choose which tools to choose for the security stack and operate out of the main dashboard.
-# V1 - Customize their stacks based off compliance frameworks
+# V1 - Customize their stacks. Customization will be provided based off compliance framework
 
 
 
