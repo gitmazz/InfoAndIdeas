@@ -1,8 +1,8 @@
 # MVP - Dashboard that has all cyber security tools in one spot. User will be able to choose which tools to choose for the security stack and operate out of the main dashboard.
-# V1 - Customize their stacks based on financial restrictions and compliance requirements.
-# V2 - Added in features to extend past cyber security. Users can create their software tech stack, HR, QA etc. Not just a cyber security product.
-# V3 - Custom built monitoring/alerting dashboard that connects with the users tech stack.
-# V4 - Custom cyber security stack proprietary to the product. Comes with useful features other companies don't offer?
+## V1 - Customize their stacks based on financial restrictions and compliance requirements.
+## V2 - Added in features to extend past cyber security. Users can create their software tech stack, HR, QA etc. Not just a cyber security product.
+## V3 - Custom built monitoring/alerting dashboard that connects with the users tech stack.
+## V4 - Custom cyber security stack proprietary to the product. Comes with useful features other companies don't offer?
 
 Pricing options
  - Per user per month
