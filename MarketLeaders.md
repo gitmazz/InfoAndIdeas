@@ -49,7 +49,6 @@
 - Eperi - https://eperi.com/
 - AWS Databases - https://aws.amazon.com/backup/
 
-
 # Training and Awareness
 - KnowBe4 - https://www.knowbe4.com/
 - CybeReady - https://cybeready.com/
@@ -64,4 +63,41 @@
 - Host Based Firewalls
 - Email Encryption Software
 
+# Identity and Access Management
+- Okta - https://www.okta.com/
+- Auth0 - https://auth0.com/
+- OneLogin - https://www.onelogin.com/
+- ForgeRock - https://www.forgerock.com/
+- Duo - https://duo.com/
+- PingOne Cloud Platform - https://www.pingidentity.com/en.html
+
+# SIEM
+- Splunk - https://www.splunk.com/
+- QRadar - https://www.ibm.com/products/qradar-siem
+- Microsoft Sentinel - https://azure.microsoft.com/en-us/products/microsoft-sentinel
+- Securonix - https://www.securonix.com/
+- Exabeam - https://www.exabeam.com/
+- Rapid7 - https://www.rapid7.com/solutions/siem/
+- LogRhythm - https://logrhythm.com/
+- Fortinet - https://www.fortinet.com/products/siem/fortisiem
+- Graylog - https://graylog.org/post/siem-simplified/
+
+# Antivirus
+- TotalAV - https://www.totalav.com/mac-free-antivirus
+- PCProtect - https://www.pcprotect.com/download-now
+- BitDefender - https://www.bitdefender.com/solutions/free.html
+- ScanGuard - https://www.scanguard.com/free-anti-malware
+- Norton - https://us.norton.com/
+- Avast - https://www.avast.com/en-us/index#mac
+- AVG - https://www.avg.com/en-us/homepage#mac
+
+# Antimalware
+- Malwarebytes - https://www.malwarebytes.com/lp/sem/en?C=4&gad=1&gclid=CjwKCAjwo9unBhBTEiwAipC116FMkxa7x2BSbFIv-VJjqtItg1WoZGk86imv22haTvM6zFQB8NpvAxoCgysQAvD_BwE
+- SUPERAntiSpyware - https://www.superantispyware.com/
+- HitmanPro - https://www.hitmanpro.com/en-us/hmp
+- Zemana - https://zemana.com/us/antimalware.html
+- Emsisoft Emergency Kit
+- Spybot - Search & Destroy
+- RogueKiller
+- GridinSoft Anti-Malware
 
