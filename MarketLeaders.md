@@ -96,8 +96,27 @@
 - SUPERAntiSpyware - https://www.superantispyware.com/
 - HitmanPro - https://www.hitmanpro.com/en-us/hmp
 - Zemana - https://zemana.com/us/antimalware.html
-- Emsisoft Emergency Kit
-- Spybot - Search & Destroy
-- RogueKiller
-- GridinSoft Anti-Malware
+- Emsisoft Emergency Kit - https://www.emsisoft.com/en/home/emergency-kit/
+- Spybot - https://www.safer-networking.org/
+- RogueKiller - https://www.adlice.com/roguekiller/
+- GridinSoft - https://gridinsoft.com/
+
+# VPN Solutions
+- ExpressVPN - https://www.expressvpn.com/go/home
+- NordVPN - https://nordvpn.com/
+- SurfShark - https://surfshark.com/
+- ProtonVPN - https://protonvpn.com/
+- Hotspot Shield - https://www.hotspotshield.com/
+- TunnelBear - https://www.tunnelbear.com/
+- CyberGhost VPN - https://www.cyberghostvpn.com/en_US/
+- OpenVPN - https://openvpn.net/
+- IP Vanish - https://www.ipvanish.com/
+- Windscribe - https://windscribe.com/
+- PureVPN - https://www.purevpn.com/
+- NordLayer - https://nordlayer.com/
+
+# Intrusion Detection Software
+
+
+# Intrusion Prevention Software
 
