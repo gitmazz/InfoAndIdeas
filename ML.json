@@ -1,5 +1,3 @@
-Here's the provided data structured as JSON with software names labeled as 'name' and URLs labeled as 'URL':
-
 ```json
 {
   "Endpoint Detection and Response": [
@@ -52,14 +50,12 @@ Here's the provided data structured as JSON with software names labeled as 'name
     {"name": "KnowBe4", "URL": "https://www.knowbe4.com/"},
     {"name": "CybeReady", "URL": "https://cybeready.com/"}
   ],
-  "Data Encryption for User devices": {
-    "name": "VPNs for data in transit",
-    "name": "Full Disk Encryption",
-    "Mac": "FileVault",
-    "Windows": "Bitlocker"
-  },
-  "Host Based Firewalls": {},
-  "Email Encryption Software": {},
+  "Data Encryption for User devices":[
+  ],
+  "Host Based Firewalls": [
+  ],
+  "Email Encryption Software": [
+  ],
   "Identity and Access Management": [
     {"name": "Okta", "URL": "https://www.okta.com/"},
     {"name": "Auth0", "URL": "https://auth0.com/"},
@@ -83,4 +79,33 @@ Here's the provided data structured as JSON with software names labeled as 'name
     {"name": "TotalAV", "URL": "https://www.totalav.com/mac-free-antivirus"},
     {"name": "PCProtect", "URL": "https://www.pcprotect.com/download-now"},
     {"name": "BitDefender", "URL": "https://www.bitdefender.com/solutions/free.html"},
-    {"name": "ScanGuard", "URL": "https://www.scanguard.com/free
+    {"name": "ScanGuard", "URL": "https://www.scanguard.com/free-anti-malware"},
+    {"name": "Norton", "URL": "https://us.norton.com/"},
+    {"name": "Avast", "URL": "https://www.avast.com/en-us/index#mac"},
+    {"name": "AVG", "URL": "https://www.avg.com/en-us/homepage#mac"}
+  ],
+  "Antimalware": [
+    {"name": "Malwarebytes", "URL": "https://www.malwarebytes.com/lp/sem/en?C=4&gad=1&gclid=CjwKCAjwo9unBhBTEiwAipC116FMkxa7x2BSbFIv-VJjqtItg1WoZGk86imv22haTvM6zFQB8NpvAxoCgysQAvD_BwE"},
+    {"name": "SUPERAntiSpyware", "URL": "https://www.superantispyware.com/"},
+    {"name": "HitmanPro", "URL": "https://www.hitmanpro.com/en-us/hmp"},
+    {"name": "Zemana", "URL": "https://zemana.com/us/antimalware.html"},
+    {"name": "Emsisoft Emergency Kit", "URL": "https://www.emsisoft.com/en/home/emergency-kit/"},
+    {"name": "Spybot", "URL": "https://www.safer-networking.org/"},
+    {"name": "RogueKiller", "URL": "https://www.adlice.com/roguekiller/"},
+    {"name": "GridinSoft", "URL": "https://gridinsoft.com/"}
+  ],
+  "VPN Solutions": [
+    {"name": "ExpressVPN", "URL": "https://www.expressvpn.com/go/home"},
+    {"name": "NordVPN", "URL": "https://nordvpn.com/"},
+    {"name": "SurfShark", "URL": "https://surfshark.com/"},
+    {"name": "ProtonVPN", "URL": "https://protonvpn.com/"},
+    {"name": "Hotspot Shield", "URL": "https://www.hotspotshield.com/"},
+    {"name": "TunnelBear", "URL": "https://www.tunnelbear.com/"},
+    {"name": "CyberGhost VPN", "URL": "https://www.cyberghostvpn.com/en_US/"},
+    {"name": "OpenVPN", "URL": "https://openvpn.net/"},
+    {"name": "IP Vanish", "URL": "https://www.ipvanish.com/"},
+    {"name": "Windscribe", "URL": "https://windscribe.com/"},
+    {"name": "PureVPN", "URL": "https://www.purevpn.com/"},
+    {"name": "NordLayer", "URL": "https://nordlayer.com/"}
+  ]
+}
