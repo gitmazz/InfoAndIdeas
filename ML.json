@@ -1,1 +1,86 @@
+Here's the provided data structured as JSON with software names labeled as 'name' and URLs labeled as 'URL':
 
+```json
+{
+  "Endpoint Detection and Response": [
+    {"name": "Crowdstrike", "URL": "https://www.crowdstrike.com/products/endpoint-security/"},
+    {"name": "Microsoft Defender for Endpoint", "URL": "https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint"},
+    {"name": "Carbon Black", "URL": "https://www.vmware.com/products/carbon-black-endpoint.html"},
+    {"name": "Sentinel One", "URL": "https://www.sentinelone.com/"},
+    {"name": "Cybereason", "URL": "https://www.cybereason.com/platform/endpoint-prevention"},
+    {"name": "Trend Micro", "URL": "https://www.trendmicro.com/en_us/business/products/user-protection/endpoint-security.html"},
+    {"name": "Sophos", "URL": "https://www.sophos.com/en-us/content/endpoint-security"}
+  ],
+  "Application Security Testing / SAST / DAST": [
+    {"name": "Synopsys", "URL": "https://www.synopsys.com/software-integrity/security-testing.html"},
+    {"name": "Veracode", "URL": "https://www.veracode.com/"},
+    {"name": "Checkmarx", "URL": "https://checkmarx.com/"},
+    {"name": "OpenText", "URL": "https://www.opentext.com/solutions/line-of-business/security"},
+    {"name": "Snyk", "URL": "https://snyk.io/"},
+    {"name": "HCLSoftware", "URL": "https://www.hcltech.com/cyber-security-grc-services/application-security"},
+    {"name": "JFrog", "URL": "https://jfrog.com/advanced-security/"},
+    {"name": "AWS Code Guru", "URL": "Developer powered tool to perform SAST by analyzing source code."},
+    {"name": "Codacy", "URL": "https://www.codacy.com/"}
+  ],
+  "Vulnerability Management": [
+    {"name": "Nessus", "URL": "https://www.tenable.com/products/nessus"},
+    {"name": "Qualys", "URL": "https://www.qualys.com/apps/vulnerability-management-detection-response/"},
+    {"name": "Rapid7 Nexpose", "URL": "https://www.rapid7.com/products/nexpose/"},
+    {"name": "OpenVAS", "URL": "https://openvas.org/"},
+    {"name": "Burp Suite", "URL": "https://portswigger.net/burp/enterprise"},
+    {"name": "Acunetix", "URL": "https://www.acunetix.com/vulnerability-scanner/"},
+    {"name": "Wiz", "URL": "https://wiz.io"},
+    {"name": "Amazon Inspector", "URL": "Scans for vulnerabilities in EKS cluster or EC2 instances"},
+    {"name": "Amazon Macie", "URL": "Scans for PII in S3 Buckets"},
+    {"name": "Amazon Guard Duty", "URL": "Identifies Malicious behavior in your environment"}
+  ],
+  "Inventory Management": [
+    {"name": "Cin7", "URL": "https://get.cin7.com/"},
+    {"name": "Fishbowl", "URL": "https://www.fishbowlinventory.com/"},
+    {"name": "asapSystems", "URL": "https://asapsystems.com/products/inventory-system/system-features/user-security/"},
+    {"name": "Snipe-IT", "URL": "https://snipeitapp.com/"},
+    {"name": "Lansweeper", "URL": "https://www.lansweeper.com/"},
+    {"name": "ManageEngine", "URL": "https://www.manageengine.com/products/asset-explorer/"}
+  ],
+  "Data Protection": [
+    {"name": "Acronis", "URL": "https://www.acronis.com/en-us/"},
+    {"name": "Barracuda", "URL": "https://www.barracuda.com/products/data-protection/backup"},
+    {"name": "Eperi", "URL": "https://eperi.com/"},
+    {"name": "AWS Databases", "URL": "https://aws.amazon.com/backup/"}
+  ],
+  "Training and Awareness": [
+    {"name": "KnowBe4", "URL": "https://www.knowbe4.com/"},
+    {"name": "CybeReady", "URL": "https://cybeready.com/"}
+  ],
+  "Data Encryption for User devices": {
+    "name": "VPNs for data in transit",
+    "name": "Full Disk Encryption",
+    "Mac": "FileVault",
+    "Windows": "Bitlocker"
+  },
+  "Host Based Firewalls": {},
+  "Email Encryption Software": {},
+  "Identity and Access Management": [
+    {"name": "Okta", "URL": "https://www.okta.com/"},
+    {"name": "Auth0", "URL": "https://auth0.com/"},
+    {"name": "OneLogin", "URL": "https://www.onelogin.com/"},
+    {"name": "ForgeRock", "URL": "https://www.forgerock.com/"},
+    {"name": "Duo", "URL": "https://duo.com/"},
+    {"name": "PingOne Cloud Platform", "URL": "https://www.pingidentity.com/en.html"}
+  ],
+  "SIEM": [
+    {"name": "Splunk", "URL": "https://www.splunk.com/"},
+    {"name": "QRadar", "URL": "https://www.ibm.com/products/qradar-siem"},
+    {"name": "Microsoft Sentinel", "URL": "https://azure.microsoft.com/en-us/products/microsoft-sentinel"},
+    {"name": "Securonix", "URL": "https://www.securonix.com/"},
+    {"name": "Exabeam", "URL": "https://www.exabeam.com/"},
+    {"name": "Rapid7", "URL": "https://www.rapid7.com/solutions/siem/"},
+    {"name": "LogRhythm", "URL": "https://logrhythm.com/"},
+    {"name": "Fortinet", "URL": "https://www.fortinet.com/products/siem/fortisiem"},
+    {"name": "Graylog", "URL": "https://graylog.org/post/siem-simplified/"}
+  ],
+  "Antivirus": [
+    {"name": "TotalAV", "URL": "https://www.totalav.com/mac-free-antivirus"},
+    {"name": "PCProtect", "URL": "https://www.pcprotect.com/download-now"},
+    {"name": "BitDefender", "URL": "https://www.bitdefender.com/solutions/free.html"},
+    {"name": "ScanGuard", "URL": "https://www.scanguard.com/free
