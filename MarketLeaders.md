@@ -115,8 +115,24 @@
 - PureVPN - https://www.purevpn.com/
 - NordLayer - https://nordlayer.com/
 
-# Intrusion Detection Software
+# Email Security
+- Proofpoint - https://www.proofpoint.com/us/products/email-security-and-protection
+- Avanan - https://www.avanan.com/
+- Mimecast - https://www.mimecast.com/
+- Barracuda - https://www.barracuda.com/products/email-protection
+- Fortinet - https://www.fortinet.com/products/email-security
+- Abnormal Security - https://abnormalsecurity.com/
+- Darktrace - https://darktrace.com/products/email
+
+# Firewall Solutions
+- Sophos - https://www.sophos.com/en-us/products/next-gen-firewall
+- Checkpoint - https://www.checkpoint.com/quantum/next-generation-firewall/
+
+# Intrusion Detection/Protection Software
+- Trend Micro Hybrid Cloud - https://www.trendmicro.com/en_za/business/products/network/intrusion-prevention.html
+- ExtraHop - https://www.extrahop.com/
+- https://www.crowdsec.net/
 
 
-# Intrusion Prevention Software
+# Host Based Intrusion Detection
 
