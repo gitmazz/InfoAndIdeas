@@ -4,10 +4,13 @@
 ## V3 - Custom built monitoring/alerting dashboard that connects with the users tech stack.
 ## V4 - Custom cyber security stack proprietary to the product. Comes with useful features other companies don't offer?
 
-Pricing options
+# Monetization
  - Per user per month
  - Per number of integration
  - Per month/annual subscriptions
+ - Affiliate links where possible for the software offered
+ - Create a stack based off compliance requirements or company goals
+  - i.e. we want to accomplish SOC2 and have 20k to spend - Stax creates the right security stack. 
 
 
 
