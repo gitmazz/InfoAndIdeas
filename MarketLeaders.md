@@ -64,14 +64,7 @@
 - CybeReady - https://cybeready.com/
 
 # Data Encryption for User devices
-- VPNs for data in transit
-- Full Disk Encryption
- - Mac
-  - FileVault
- -  Windows
-  - Bitlocker 
-- Host Based Firewalls
-- Email Encryption Software
+
 
 # Identity and Access Management
 - Okta - https://www.okta.com/
