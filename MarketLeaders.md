@@ -12,7 +12,7 @@
 - Darktrace - https://darktrace.com/products/endpoint
 
 
-# Application Security Testing / SAST / DAST 
+# Application Security Testing
 - Synopsys - https://www.synopsys.com/software-integrity/security-testing.html
 - Veracode - https://www.veracode.com/
 - Checkmarx - https://checkmarx.com/
@@ -21,6 +21,8 @@
 - HCLSoftware - https://www.hcltech.com/cyber-security-grc-services/application-security
 - JFrog - https://jfrog.com/advanced-security/
 - Codacy - https://www.codacy.com/
+- MicroFocus - https://www.microfocus.com/en-us/cyberres/application-security/static-code-analyzer
+- Sonarqube - https://www.sonarsource.com/products/sonarqube/
 
 #  Vulnerability Management
  - Nessus - https://www.tenable.com/products/nessus
@@ -37,11 +39,16 @@
 
 # Inventory Management
 - Cin7 - https://get.cin7.com/
-- Fishbowl - https://www.fishbowlinventory.com/
-- asapSystems - https://asapsystems.com/products/inventory-system/system-features/user-security/
+- Asset Panda - https://www.assetpanda.com/
 - Snipe-IT - https://snipeitapp.com/
 - Lansweeper - https://www.lansweeper.com/
 - ManageEngine - https://www.manageengine.com/products/asset-explorer/
+- GLPI - https://glpi-project.org/features/
+- PDQ - https://www.pdq.com/landing/home/
+- Manage Engine - https://www.manageengine.com/
+- NinjaRMM - https://www.ninjaone.com/
+- Asset Tiger - https://www.assettiger.com/
+- Microsoft Excel - https://www.microsoft.com/en-us/microsoft-365/excel
 
 # Data Protection
 - Acronis - https://www.acronis.com/en-us/
