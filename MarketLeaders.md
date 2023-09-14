@@ -10,6 +10,7 @@
 - Sophos - https://www.sophos.com/en-us/content/endpoint-security
 - Qualys - https://www.qualys.com/solutions/endpoint/
 - Darktrace - https://darktrace.com/products/endpoint
+- Tanium - https://www.tanium.com/solutions/endpoint-management/
 
 
 # Application Security Testing
@@ -23,6 +24,8 @@
 - Codacy - https://www.codacy.com/
 - MicroFocus - https://www.microfocus.com/en-us/cyberres/application-security/static-code-analyzer
 - Sonarqube - https://www.sonarsource.com/products/sonarqube/
+- BurpSuite - https://portswigger.net/burp/vulnerability-scanner
+- Bearer - https://www.bearer.com/
 
 #  Vulnerability Management
  - Nessus - https://www.tenable.com/products/nessus
@@ -35,7 +38,7 @@
  - Wiz - https://wiz.io
  - Greenbone - https://www.greenbone.net/en/
  - Wazuh - https://documentation.wazuh.com/current/user-manual/capabilities/vulnerability-detection/how-it-works.html
-
+ - W3AF - https://w3af.org/ 
 
 # Inventory Management
 - Cin7 - https://get.cin7.com/
@@ -76,7 +79,8 @@
 - OneLogin - https://www.onelogin.com/
 - ForgeRock - https://www.forgerock.com/
 - Duo - https://duo.com/
-- PingOne Cloud Platform - https://www.pingidentity.com/en.html
+- Ping Identity - https://www.pingidentity.com/en.html
+- CyberArk - https://www.cyberark.com/
 
 # SIEM
 - Splunk - https://www.splunk.com/
@@ -88,6 +92,7 @@
 - LogRhythm - https://logrhythm.com/
 - Fortinet - https://www.fortinet.com/products/siem/fortisiem
 - Graylog - https://graylog.org/post/siem-simplified/
+- Wazuh - https://wazuh.com/
 
 # Antivirus
 - TotalAV - https://www.totalav.com/mac-free-antivirus
@@ -97,6 +102,7 @@
 - Norton - https://us.norton.com/
 - Avast - https://www.avast.com/en-us/index#mac
 - AVG - https://www.avg.com/en-us/homepage#mac
+- ClamAV - https://www.clamav.net/
 
 # Antimalware
 - Malwarebytes - https://www.malwarebytes.com/lp/sem/en?C=4&gad=1&gclid=CjwKCAjwo9unBhBTEiwAipC116FMkxa7x2BSbFIv-VJjqtItg1WoZGk86imv22haTvM6zFQB8NpvAxoCgysQAvD_BwE
@@ -130,17 +136,24 @@
 - Fortinet - https://www.fortinet.com/products/email-security
 - Abnormal Security - https://abnormalsecurity.com/
 - Darktrace - https://darktrace.com/products/email
+- Proxmox - https://www.proxmox.com/en/proxmox-mail-gateway/overview
+- MailScanner - https://www.mailscanner.info/
 
 # Firewall Solutions
 - Sophos - https://www.sophos.com/en-us/products/next-gen-firewall
 - Checkpoint - https://www.checkpoint.com/quantum/next-generation-firewall/
+- pfSense - https://www.pfsense.org/
+- Smoothwall - https://www.smoothwall.com/education/
 
 # Intrusion Detection/Protection Software
 - Trend Micro Hybrid Cloud - https://www.trendmicro.com/en_za/business/products/network/intrusion-prevention.html
 - ExtraHop - https://www.extrahop.com/
 - Crowdsec - https://www.crowdsec.net/
 - BlueMira - https://www.threatblockr.com/
+- Palo Alto - https://www.paloaltonetworks.com/network-security/advanced-threat-prevention
 
-
-# Host Based Intrusion Detection
+# Data Security
+- HashiCorp - https://www.hashicorp.com/products/vault
+- Azure - https://azure.microsoft.com/en-us/products/key-vault
+- CyberArk - https://www.cyberark.com/products/secrets-management/
 
