@@ -27,7 +27,7 @@
 - BurpSuite - https://portswigger.net/burp/vulnerability-scanner
 - Bearer - https://www.bearer.com/
 
-#  Vulnerability Management
+# Vulnerability Management
  - Nessus - https://www.tenable.com/products/nessus
  - Qualys - https://www.qualys.com/apps/vulnerability-management-detection-response/
  - Rapid7 Nexpose - https://www.rapid7.com/products/nexpose/
