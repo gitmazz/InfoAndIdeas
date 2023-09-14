@@ -8,6 +8,8 @@
 - Cyberreason - https://www.cybereason.com/platform/endpoint-prevention
 - Trend Micro - https://www.trendmicro.com/en_us/business/products/user-protection/endpoint-security.html
 - Sophos - https://www.sophos.com/en-us/content/endpoint-security
+- Qualys - https://www.qualys.com/solutions/endpoint/
+- Darktrace - https://darktrace.com/products/endpoint
 
 
 # Application Security Testing / SAST / DAST 
@@ -18,22 +20,20 @@
 - Snyk - https://snyk.io/
 - HCLSoftware - https://www.hcltech.com/cyber-security-grc-services/application-security
 - JFrog - https://jfrog.com/advanced-security/
-- AWS
- - AWS Code Guru - Developer powered tool to perform SAST by analyzing source code.
 - Codacy - https://www.codacy.com/
 
 #  Vulnerability Management
  - Nessus - https://www.tenable.com/products/nessus
  - Qualys - https://www.qualys.com/apps/vulnerability-management-detection-response/
  - Rapid7 Nexpose - https://www.rapid7.com/products/nexpose/
+ - Rapid7 Insight VM - https://www.rapid7.com/products/insightvm/
  - OpenVAS - https://openvas.org/
  - Burp Suite - https://portswigger.net/burp/enterprise
  - Acunetix - https://www.acunetix.com/vulnerability-scanner/
  - Wiz - https://wiz.io
- - AWS
-  -  Amazon Inspector - Scans for vulnerabilities in EKS cluster or EC2 instances
-  -  Amazon Macie - Scans for PII in S3 Buckets
-  -  Amazon Guard Duty - Identifies Malicious behavior in your environment
+ - Greenbone - https://www.greenbone.net/en/
+ - Wazuh - https://documentation.wazuh.com/current/user-manual/capabilities/vulnerability-detection/how-it-works.html
+
 
 # Inventory Management
 - Cin7 - https://get.cin7.com/
