@@ -131,7 +131,8 @@
 # Intrusion Detection/Protection Software
 - Trend Micro Hybrid Cloud - https://www.trendmicro.com/en_za/business/products/network/intrusion-prevention.html
 - ExtraHop - https://www.extrahop.com/
-- https://www.crowdsec.net/
+- Crowdsec - https://www.crowdsec.net/
+- BlueMira - https://www.threatblockr.com/
 
 
 # Host Based Intrusion Detection
