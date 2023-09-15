@@ -112,3 +112,50 @@
 
 ##### Finally, account logging and monitoring is a critical component of security operations. While account logging and monitoring are covered in CIS Control 8 (Audit Log Management), it is important in the development of a comprehensive Identity and Access Management (IAM) program.
 
+====================================================================================================
+## CIS Control 6: Access Control Management
+====================================================================================================
+
+   - 6.1: Establish an Access Granting Process <control-6.1>
+   - 6.2: Establish an Access Revoking Process <control-6.2>
+   - 6.3: Require MFA for Externally-Exposed Applications <control-6.3>
+   - 6.4: Require MFA for Remote Network Access <control-6.4>
+   - 6.5: Require MFA for Administrative Access <control-6.5>
+   - 6.6: Establish and Maintain an Inventory of Authentication and Authorization Systems <control-6.6>
+   - 6.7: Centralize Access Control <control-6.7>
+   - 6.8: Define and Maintain Role-Based Access Control <control-6.8>
+     
+**Why is this CIS Control Critical?**
+
+##### Use processes and tools to create, assign, manage, and revoke access credentials and privileges for user, administrator, and service accounts for enterprise assets and software.
+
+##### Where CIS Control 5 deals specifically with account management, CIS Control 6 focuses on managing what access these accounts have, ensuring users only have access to the data or enterprise assets appropriate for their role, and ensuring that there is strong authentication for critical or sensitive enterprise data or functions. Accounts should only have the minimal authorization needed for the role. Developing consistent access rights for each role and assigning roles to users is a best practice. Developing a program for complete provision and de-provisioning access is also important. Centralizing this function is ideal. 
+
+##### There are some user activities that pose greater risk to an enterprise, either because they are accessed from untrusted networks, or performing administrator functions that allow the ability to add, change, or remove other accounts, or make configuration changes to operating systems or applications to make them less secure. This also enforces the importance of using MFA and Privileged Access Management (PAM) tools.
+
+##### Some users have access to enterprise assets or data they do not need for their role; this might be due to an immature process that gives all users all access, or lingering access as users change roles within the enterprise over time. Local administrator privileges to users’ laptops is also an issue, as any malicious code installed or downloaded by the user can have greater impact on the enterprise asset running as administrator. User, administrator, and service account access should be based on enterprise role and need.
+
+====================================================================================================
+## CIS Control 7: Continuous Vulnerability Management
+====================================================================================================
+
+   - 7.1: Establish and Maintain a Vulnerability Management Process <control-7.1>
+   - 7.2: Establish and Maintain a Remediation Process <control-7.2>
+   - 7.3: Perform Automated Operating System Patch Management <control-7.3>
+   - 7.4: Perform Automated Application Patch Management <control-7.4>
+   - 7.5: Perform Automated Vulnerability Scans of Internal Enterprise Assets <control-7.5>
+   - 7.6: Perform Automated Vulnerability Scans of Externally-Exposed Enterprise Assets <control-7.6>
+   - 7.7: Remediate Detected Vulnerabilities <control-7.7>
+
+**Why is this CIS Control Critical?**
+
+##### Develop a plan to continuously assess and track vulnerabilities on all enterprise assets within the enterprise’s infrastructure, in order to remediate, and minimize, the window of opportunity for attackers. Monitor public and private industry sources for new threat and vulnerability information.
+
+##### Cyber defenders are constantly being challenged from attackers who are looking for vulnerabilities within their infrastructure to exploit and gain access. Defenders must have timely threat information available to them about: software updates, patches, security advisories, threat bulletins, etc., and they should regularly review their environment to identify these vulnerabilities before the attackers do. Understanding and managing vulnerabilities is a continuous activity, requiring focus of time, attention, and resources.
+
+##### Attackers have access to the same information and can often take advantage of vulnerabilities more quickly than an enterprise can remediate. While there is a gap in time from a vulnerability being known to when it is patched, defenders can prioritize which vulnerabilities are most impactful to the enterprise, or likely to be exploited first due to ease of use. For example, when researchers or the community report new vulnerabilities, vendors have to develop and deploy patches, indicators of compromise (IOCs), and updates. Defenders need to assess the risk of the new vulnerability to the enterprise, regression-test patches   , and install the patch.
+
+##### There is never perfection in this process. Attackers might be using an exploit to a vulnerability that is not known within the security community. They might have developed an exploit to this vulnerability referred to as a “zero-day” exploit. Once the vulnerability is known in the community, the process mentioned above starts. Therefore, defenders must keep in mind that an exploit might already exist when the vulnerability is widely socialized. Sometimes vulnerabilities might be known within a closed community (e.g., vendor still developing a fix) for weeks, months, or years before it is disclosed publicly. Defenders have to be aware that there might always be vulnerabilities they cannot remediate, and therefore need to use other controls to mitigate.
+
+##### Enterprises that do not assess their infrastructure for vulnerabilities and proactively address discovered flaws face a significant likelihood of having their enterprise assets compromised. Defenders face particular challenges in scaling remediation across an entire enterprise, and prioritizing actions with conflicting priorities, while not impacting the enterprise’s business or mission.
+
