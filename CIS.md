@@ -73,18 +73,18 @@
 ## CIS Control 4: Secure Configuration of Enterprise Assets and Software
 ====================================================================================================
 
-   - 4.1: Establish and Maintain a Secure Configuration Process <control-4.1>
-   - 4.2: Establish and Maintain a Secure Configuration Process for Network Infrastructure <control-4.2>
-   - 4.3: Ensure the Use of Dedicated Administrative Accounts <control-4.3>
-   - 4.4: Implement and Manage a Firewall on Servers <control-4.4>
-   - 4.5: Implement and Manage a Firewall on End-User Devices <control-4.5>
-   - 4.6: Securely Manage Enterprise Assets and Software <control-4.6>
-   - 4.7: Manage Default Accounts on Enterprise Assets and Software <control-4.7>
-   - 4.8: Uninstall or Disable Unnecessary Services on Enterprise Assets and Software <control-4.8>
-   - 4.9: Configure Trusted DNS Servers on Enterprise Assets <control-4.9>
-   - 4.10: Enforce Automatic Device Lockout on Portable End-User Devices <control-4.10>
-   - 4.11: Enforce Remote Wipe Capability on Portable End-User Devices <control-4.11>
-   - 4.12: Separate Enterprise Workspaces on Mobile End-User Devices <control-4.12>
+   - 4.1: Establish and Maintain a Secure Configuration Process
+   - 4.2: Establish and Maintain a Secure Configuration Process for Network Infrastructure
+   - 4.3: Ensure the Use of Dedicated Administrative Accounts
+   - 4.4: Implement and Manage a Firewall on Servers
+   - 4.5: Implement and Manage a Firewall on End-User Devices
+   - 4.6: Securely Manage Enterprise Assets and Software
+   - 4.7: Manage Default Accounts on Enterprise Assets and Software
+   - 4.8: Uninstall or Disable Unnecessary Services on Enterprise Assets and Software
+   - 4.9: Configure Trusted DNS Servers on Enterprise Assets
+   - 4.10: Enforce Automatic Device Lockout on Portable End-User Devices
+   - 4.11: Enforce Remote Wipe Capability on Portable End-User Devices
+   - 4.12: Separate Enterprise Workspaces on Mobile End-User Devices
 
 **Why is this CIS Control Critical?**
 
@@ -97,12 +97,12 @@
 ====================================================================================================
 ## CIS Control 5: Account Management
 ====================================================================================================
-   - 5.1: Establish and Maintain an Inventory of Accounts <control-5.1>
-   - 5.2: Use Unique Passwords <control-5.2>
-   - 5.3: Disable Dormant Accounts <control-5.3>
-   - 5.4: Restrict Administrator Privileges to Dedicated Administrator Accounts <control-5.4>
-   - 5.5: Establish and Maintain an Inventory of Service Accounts <control-5.5>
-   - 5.6: Centralize Account Management <control-5.6>
+   - 5.1: Establish and Maintain an Inventory of Accounts
+   - 5.2: Use Unique Passwords
+   - 5.3: Disable Dormant Accounts
+   - 5.4: Restrict Administrator Privileges to Dedicated Administrator Accounts
+   - 5.5: Establish and Maintain an Inventory of Service Accounts
+   - 5.6: Centralize Account Management
 
 **Why is this CIS Control Critical?**
 
@@ -116,14 +116,14 @@
 ## CIS Control 6: Access Control Management
 ====================================================================================================
 
-   - 6.1: Establish an Access Granting Process <control-6.1>
-   - 6.2: Establish an Access Revoking Process <control-6.2>
-   - 6.3: Require MFA for Externally-Exposed Applications <control-6.3>
-   - 6.4: Require MFA for Remote Network Access <control-6.4>
-   - 6.5: Require MFA for Administrative Access <control-6.5>
-   - 6.6: Establish and Maintain an Inventory of Authentication and Authorization Systems <control-6.6>
-   - 6.7: Centralize Access Control <control-6.7>
-   - 6.8: Define and Maintain Role-Based Access Control <control-6.8>
+   - 6.1: Establish an Access Granting Process
+   - 6.2: Establish an Access Revoking Process
+   - 6.3: Require MFA for Externally-Exposed Applications
+   - 6.4: Require MFA for Remote Network Access
+   - 6.5: Require MFA for Administrative Access
+   - 6.6: Establish and Maintain an Inventory of Authentication and Authorization Systems
+   - 6.7: Centralize Access Control
+   - 6.8: Define and Maintain Role-Based Access Control
      
 **Why is this CIS Control Critical?**
 
@@ -139,13 +139,13 @@
 ## CIS Control 7: Continuous Vulnerability Management
 ====================================================================================================
 
-   - 7.1: Establish and Maintain a Vulnerability Management Process <control-7.1>
-   - 7.2: Establish and Maintain a Remediation Process <control-7.2>
-   - 7.3: Perform Automated Operating System Patch Management <control-7.3>
-   - 7.4: Perform Automated Application Patch Management <control-7.4>
-   - 7.5: Perform Automated Vulnerability Scans of Internal Enterprise Assets <control-7.5>
-   - 7.6: Perform Automated Vulnerability Scans of Externally-Exposed Enterprise Assets <control-7.6>
-   - 7.7: Remediate Detected Vulnerabilities <control-7.7>
+   - 7.1: Establish and Maintain a Vulnerability Management Process
+   - 7.2: Establish and Maintain a Remediation Process
+   - 7.3: Perform Automated Operating System Patch Management
+   - 7.4: Perform Automated Application Patch Management
+   - 7.5: Perform Automated Vulnerability Scans of Internal Enterprise Assets
+   - 7.6: Perform Automated Vulnerability Scans of Externally-Exposed Enterprise Assets
+   - 7.7: Remediate Detected Vulnerabilities
 
 **Why is this CIS Control Critical?**
 
@@ -159,3 +159,19 @@
 
 ##### Enterprises that do not assess their infrastructure for vulnerabilities and proactively address discovered flaws face a significant likelihood of having their enterprise assets compromised. Defenders face particular challenges in scaling remediation across an entire enterprise, and prioritizing actions with conflicting priorities, while not impacting the enterprise’s business or mission.
 
+====================================================================================================
+## CIS Control 8: Audit Log Management
+====================================================================================================
+
+   - 8.1: Establish and Maintain an Audit Log Management Process
+   - 8.2: Collect Audit Logs
+   - 8.3: Ensure Adequate Audit Log Storage
+   - 8.4: Standardize Time Synchronization
+   - 8.5: Collect Detailed Audit Logs
+   - 8.6: Collect DNS Query Audit Logs
+   - 8.7: Collect URL Request Audit Logs
+   - 8.8: Collect Command-Line Audit Logs
+   - 8.9: Centralize Audit Logs
+   - 8.10: Retain Audit Logs
+   - 8.11: Conduct Audit Log Reviews
+   - 8.12 Collect Service Provider Logs
