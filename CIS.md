@@ -16,9 +16,9 @@ Enterprises cannot defend what they do not know they have. Managed control of al
 External attackers are continuously scanning the internet address space of target enterprises, premise-based or in the cloud, identifying possibly unprotected assets attached to enterprises' networks. Attackers can take advantage of new assets that are installed, yet not securely configured and patched. Internally, unidentified assets can also have weak security configurations that can make them vulnerable to web or email-based malware; and adversaries can leverage weak security configurations for traversing the network, once they are inside.
 
 Additional assets that connect to the enterprise’s network (e.g., demonstration systems, temporary test systems, guest networks, etc.) should be identified and/or isolated, in order to prevent adversarial access from affecting the security of enterprise operations.
-======================================================================================================================================================
+====================================================================================================
 ## CIS Control 2: Inventory and Control of Software Assets
-======================================================================================================================================================
+====================================================================================================
 
    - 2.1: Establish and Maintain a Software Inventory
    - 2.2: Ensure Authorized Software is Currently Supported
@@ -35,9 +35,9 @@ A complete software inventory is a critical foundation for preventing attacks. A
 Even if a patch is not yet available, a complete software inventory list allows an enterprise to guard against known attacks until the patch is released. Some sophisticated attackers use “zero-day exploits”, which take advantage of previously unknown vulnerabilities that have yet to have a patch released by the software vendor. Depending on the severity of the exploit, an enterprise can implement temporary mitigation measures to guard against attacks until the patch is released.
 
 Management of software assets is also important to identify unnecessary security risks. An enterprise should review their software inventory to identify any enterprise assets running software that is not needed for business purposes. For example, an enterprise asset may come installed with default software that creates a potential security risk and provides no benefit to the enterprise. It is critical to inventory, understand, assess, and manage all software connected to an enterprise’s infrastructure.
-======================================================================================================================================================
+====================================================================================================
 ## CIS Control 3: Data Protection
-======================================================================================================================================================
+====================================================================================================
 
 Develop processes and technical controls to identify, classify, securely handle, retain, and dispose of data.
 
