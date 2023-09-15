@@ -1,5 +1,6 @@
+# CIS Controls
 
-# CIS Control 1: Inventory and Control of Enterprise Assets
+## CIS Control 1: Inventory and Control of Enterprise Assets
 
    - 1.1: Establish and Maintain Detailed Enterprise Asset Inventory <control-1.1>
    - 1.2: Address Unauthorized Assets <control-1.2>
