@@ -50,12 +50,6 @@
     {"name": "KnowBe4", "URL": "https://www.knowbe4.com/"},
     {"name": "CybeReady", "URL": "https://cybeready.com/"}
   ],
-  "Data Encryption for User devices":[
-  ],
-  "Host Based Firewalls": [
-  ],
-  "Email Encryption Software": [
-  ],
   "Identity and Access Management": [
     {"name": "Okta", "URL": "https://www.okta.com/"},
     {"name": "Auth0", "URL": "https://auth0.com/"},
@@ -107,5 +101,34 @@
     {"name": "Windscribe", "URL": "https://windscribe.com/"},
     {"name": "PureVPN", "URL": "https://www.purevpn.com/"},
     {"name": "NordLayer", "URL": "https://nordlayer.com/"}
+  ]
+  "Email Security": [
+    {"name": "Proofpoint", "URL": "https://www.proofpoint.com/us/products/email-security-and-protection"},
+    {"name": "Avanan", "URL": "https://www.avanan.com/"},
+    {"name": "Mimecast", "URL": "https://www.mimecast.com/"},
+    {"name": "Barracuda", "URL": "https://www.barracuda.com/products/email-protection"},
+    {"name": "Fortinet", "URL": "https://www.fortinet.com/products/email-security"},
+    {"name": "Abnormal Security", "URL": "https://abnormalsecurity.com/"},
+    {"name": "Darktrace", "URL": "https://darktrace.com/products/email"},
+    {"name": "Proxmox", "URL": "https://www.proxmox.com/en/proxmox-mail-gateway/overview"},
+    {"name": "MailScanner", "URL": "https://www.mailscanner.info/"}
+  ],
+  "Firewall Solutions": [
+    {"name": "Sophos", "URL": "https://www.sophos.com/en-us/products/next-gen-firewall"},
+    {"name": "Checkpoint", "URL": "https://www.checkpoint.com/quantum/next-generation-firewall/"},
+    {"name": "pfSense", "URL": "https://www.pfsense.org/"},
+    {"name": "Smoothwall", "URL": "https://www.smoothwall.com/education/"}
+  ],
+  "Intrusion Detection/Protection Software": [
+    {"name": "Trend Micro Hybrid Cloud", "URL": "https://www.trendmicro.com/en_za/business/products/network/intrusion-prevention.html"},
+    {"name": "ExtraHop", "URL": "https://www.extrahop.com/"},
+    {"name": "Crowdsec", "URL": "https://www.crowdsec.net/"},
+    {"name": "BlueMira", "URL": "https://www.threatblockr.com/"},
+    {"name": "Palo Alto", "URL": "https://www.paloaltonetworks.com/network-security/advanced-threat-prevention"}
+  ],
+  "Data Security": [
+    {"name": "HashiCorp", "URL": "https://www.hashicorp.com/products/vault"},
+    {"name": "Azure", "URL": "https://azure.microsoft.com/en-us/products/key-vault"},
+    {"name": "CyberArk", "URL": "https://www.cyberark.com/products/secrets-management/"}
   ]
 }
