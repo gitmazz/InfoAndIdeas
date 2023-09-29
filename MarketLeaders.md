@@ -3,7 +3,7 @@
 ## Endpoint Detection and Response
 - Crowdstrike - https://www.crowdstrike.com/products/endpoint-security/
 - Microsoft Defender for Endpoint - https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint
-- Carbon Black - https://www.vmware.com/products/carbon-black-endpoint.html
+- VMWareCarbon Black - https://www.vmware.com/products/carbon-black-endpoint.html
 - Sentinel One - https://www.sentinelone.com/
 - Cyberreason - https://www.cybereason.com/platform/endpoint-prevention
 - Trend Micro - https://www.trendmicro.com/en_us/business/products/user-protection/endpoint-security.html
@@ -11,6 +11,15 @@
 - Qualys - https://www.qualys.com/solutions/endpoint/
 - Darktrace - https://darktrace.com/products/endpoint
 - Tanium - https://www.tanium.com/solutions/endpoint-management/
+- Singularity XDR - https://www.sentinelone.com/
+- Norton Endpoint Protection - https://www.nortonlifelock.com/business
+- McAfee Endpoint Security - https://www.mcafee.com/enterprise/en-us/products/endpoint-security.html
+- ESET Endpoint Protection - https://www.eset.com/
+- Kaspersky Endpoint Security - https://www.kaspersky.com/
+- Bitdefender GravityZone - https://www.bitdefender.com/business/
+- Cisco AMP for Endpoints - https://www.cisco.com/c/en/us/products/security/amp-for-endpoints/index.html
+- Palo Alto Networks Cortex XDR - https://www.paloaltonetworks.com/cortex/xdr
+- Check Point Harmony Endpoint - https://www.checkpoint.com/products/endpoint-security/
 
 
 ## Application Security Testing
@@ -63,9 +72,6 @@
 - KnowBe4 - https://www.knowbe4.com/
 - CybeReady - https://cybeready.com/
 
-## Data Encryption for User devices
-
-
 ## Identity and Access Management
 - Okta - https://www.okta.com/
 - Auth0 - https://auth0.com/
@@ -80,6 +86,7 @@
 - QRadar - https://www.ibm.com/products/qradar-siem
 - Microsoft Sentinel - https://azure.microsoft.com/en-us/products/microsoft-sentinel
 - Securonix - https://www.securonix.com/
+- SolarWinds - https://try.solarwinds.com/pdp/security-event-manager
 - Exabeam - https://www.exabeam.com/
 - Rapid7 - https://www.rapid7.com/solutions/siem/
 - LogRhythm - https://logrhythm.com/
@@ -149,4 +156,12 @@
 - HashiCorp - https://www.hashicorp.com/products/vault
 - Azure - https://azure.microsoft.com/en-us/products/key-vault
 - CyberArk - https://www.cyberark.com/products/secrets-management/
+
+## RMM Solutions
+- Connectwisehttps://www.connectwise.com/software/automate
+- N-able - https://www.n-able.com/
+- Kaseya VSA - https://www.datto.com/rmm
+- NinjaRMM - https://www.kaseya.com/products/vsa/
+- Atera - https://www.ninjarmm.com/
+- JumpCloud - https://www.jumpcloud.com
 
